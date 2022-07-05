@@ -1,10 +1,10 @@
 
 
 # Intro
-🖥️ Web publisher
+🖥️ Web publisher<br/>
 👩‍🎓 Hanyang Women’s Univ. Visual media design.
 
-**브랜드엑스코퍼레이션** <sub><sup>웹 디자인팀 Web publisher (2018.11.05 ~ )</sup></sub> 
+**브랜드엑스코퍼레이션** <sub><sup>웹 디자인팀 Web publisher (2018.11.05 ~ )</sup></sub> <br/>
 **레드마우스** <sub><sup>개발팀 Web publisher (2017.05.08 ~ 2018.09.30 )</sup></sub> 
 # Tech Stack
 
