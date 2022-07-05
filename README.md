@@ -1,10 +1,10 @@
 # 유상희 포트폴리오
 
 ## Intro
-🖥️ Web publisher<br/>
+🖥️ Web publisher>
 👩‍🎓 Hanyang Women’s Univ. Visual media design.
 
-**브랜드엑스코퍼레이션** <sub><sup>웹 디자인팀 Web publisher (2018.11.05 ~ )</sup></sub> <br/>
+**브랜드엑스코퍼레이션** <sub><sup>웹 디자인팀 Web publisher (2018.11.05 ~ )</sup></sub>>
 **레드마우스** <sub><sup>개발팀 Web publisher (2017.05.08 ~ 2018.09.30 )</sup></sub> 
 ## :pushpin: Tech Stack
 
@@ -21,11 +21,9 @@
 
 ## :pushpin: Projects
 ### 1. 젝시믹스 글로벌
->고퀄리티 개발 컨텐츠 공유 서비스 (개인 프로젝트)  
+>해외사용자의 편의를 위해 어느 해상도에서도 동일하게 볼 수 있도록
+반응형으로 제작된 사이트
 >개발 기간: 2021.03 ~ 2021.09 
 >  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
 >[사이트 링크](http://skin-skin20--shop2.xexymixglobal.cafe24.com/) 
