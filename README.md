@@ -2,6 +2,7 @@
 
 # Intro
 🖥️ Web publisher
+👩‍🎓 Hanyang Women’s University
 
 # Tech Stack
 
